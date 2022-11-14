@@ -1,0 +1,6 @@
+ ID CATATAN|NISN|NAMA LENGKAP|TANGGAL|WAKTU|KEGIATAN|HASIL
+
+|46756|bunga|2022-10-07|23:40|belajar|sukses
+
+|46756|bunga|2022-10-02|12:57|belajar|bisa
+|46756|bunga|2022-10-06|20:07|belajar tambahan|sangat puas
